@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 
 export default function Contact() {
-  const users = ["Kofi", "ama", "Kojo", "Adwoa"];
+  const users = ["Jamil- 0234812943", "Henry- 0213234432", "Kelvin- 0532323332", "Tony- 0203132013"];
 
   const navigate = useNavigate();
 
